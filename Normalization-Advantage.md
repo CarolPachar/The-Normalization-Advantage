@@ -55,6 +55,8 @@ the $k$-means algorithm.
 
 ## Result
 
+The results below are derived from the test runs found in Karate_Club_Test.ipynb and Stochastic_Block_Model.ipynb. 
+
 1. Zachary's Karate Club
 
 | Matrix | ARI (Clustering Quality)    | Runtime (seconds)    |
